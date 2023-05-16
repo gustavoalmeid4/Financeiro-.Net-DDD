@@ -1,0 +1,12 @@
+D:\Fincanceiro - DDD\Financeiro\Entities\bin\Debug\net7.0\Entities.deps.json
+D:\Fincanceiro - DDD\Financeiro\Entities\bin\Debug\net7.0\Entities.dll
+D:\Fincanceiro - DDD\Financeiro\Entities\bin\Debug\net7.0\Entities.pdb
+D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\Entities.dll
+D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\refint\Entities.dll
+D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\Entities.pdb
+D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\ref\Entities.dll

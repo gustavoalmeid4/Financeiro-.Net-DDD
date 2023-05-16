@@ -1,0 +1,12 @@
+D:\Fincanceiro - DDD\Financeiro\Infra\bin\Debug\net7.0\Infra.deps.json
+D:\Fincanceiro - DDD\Financeiro\Infra\bin\Debug\net7.0\Infra.dll
+D:\Fincanceiro - DDD\Financeiro\Infra\bin\Debug\net7.0\Infra.pdb
+D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
+D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\Infra.AssemblyInfoInputs.cache
+D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\Infra.AssemblyInfo.cs
+D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\Infra.csproj.CoreCompileInputs.cache
+D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\Infra.dll
+D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\refint\Infra.dll
+D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\Infra.pdb
+D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\ref\Infra.dll
