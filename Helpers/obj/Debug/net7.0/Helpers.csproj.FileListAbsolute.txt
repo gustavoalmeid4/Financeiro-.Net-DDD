@@ -1,0 +1,12 @@
+D:\Fincanceiro - DDD\Financeiro\Helpers\bin\Debug\net7.0\Helpers.deps.json
+D:\Fincanceiro - DDD\Financeiro\Helpers\bin\Debug\net7.0\Helpers.dll
+D:\Fincanceiro - DDD\Financeiro\Helpers\bin\Debug\net7.0\Helpers.pdb
+D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\Helpers.dll
+D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\Helpers.pdb
+D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\ref\Helpers.dll
