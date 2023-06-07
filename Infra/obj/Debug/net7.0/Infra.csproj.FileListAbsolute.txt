@@ -10,3 +10,8 @@ D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\Infra.dll
 D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\refint\Infra.dll
 D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\Infra.pdb
 D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\ref\Infra.dll
+D:\Fincanceiro - DDD\Financeiro\Infra\bin\Debug\net7.0\Domain.dll
+D:\Fincanceiro - DDD\Financeiro\Infra\bin\Debug\net7.0\Entities.dll
+D:\Fincanceiro - DDD\Financeiro\Infra\bin\Debug\net7.0\Domain.pdb
+D:\Fincanceiro - DDD\Financeiro\Infra\bin\Debug\net7.0\Entities.pdb
+D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\Infra.csproj.CopyComplete
