@@ -669,6 +669,7 @@
       },
       "Domain/1.0.0": {
         "dependencies": {
+          "Entities": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.5",
           "Microsoft.EntityFrameworkCore": "7.0.5"
         },

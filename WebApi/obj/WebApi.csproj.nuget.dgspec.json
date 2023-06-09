@@ -31,7 +31,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Fincanceiro - DDD\\Financeiro\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Fincanceiro - DDD\\Financeiro\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

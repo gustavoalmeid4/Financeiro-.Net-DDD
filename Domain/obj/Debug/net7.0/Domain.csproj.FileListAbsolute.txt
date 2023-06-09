@@ -10,3 +10,6 @@ D:\Fincanceiro - DDD\Financeiro\Domain\obj\Debug\net7.0\Domain.dll
 D:\Fincanceiro - DDD\Financeiro\Domain\obj\Debug\net7.0\refint\Domain.dll
 D:\Fincanceiro - DDD\Financeiro\Domain\obj\Debug\net7.0\Domain.pdb
 D:\Fincanceiro - DDD\Financeiro\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Fincanceiro - DDD\Financeiro\Domain\bin\Debug\net7.0\Entities.dll
+D:\Fincanceiro - DDD\Financeiro\Domain\bin\Debug\net7.0\Entities.pdb
+D:\Fincanceiro - DDD\Financeiro\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
