@@ -1,6 +1,8 @@
 ﻿using Domain.Interfaces.InterfaceServices;
 using Domain.Interfaces.IUsuarioSistemaFinanceiro;
 using Entities.Entidades;
+using Infra.Configuracao;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,19 +13,41 @@ namespace Infra.Repositorio
 {
     public class RepositorioUsuarioSistemaFinanceiro : RepositoryGenerics<UsuarioSistemaFinanceiro>, InterfaceUsuarioSistemaFinanceiro
     {
-        public Task<IList<UsuarioSistemaFinanceiro>> ListarUsuariosSistemaFinanceiro(int idSistema)
+        private readonly DbContextOptions _optionsBuilder;
+
+        public RepositorioUsuarioSistemaFinanceiro()
         {
-            throw new NotImplementedException();
+            _optionsBuilder = new DbContextOptions<ContextBase>();
+        }
+        public async Task<IList<UsuarioSistemaFinanceiro>> ListarUsuariosSistemaFinanceiro(int idSistema)
+        {
+            using (var banco = new ContextBase(_optionsBuilder))
+            {
+                return await banco.UsuarioSistemaFinanceiro
+                    .Where(s => s.IdSistema == idSistema)
+                    .AsNoTracking()
+                    .ToListAsync();
+            }
+
         }
 
-        public Task<UsuarioSistemaFinanceiro> ObterUsuarioPorEmail(string emailUsuario)
+        public async Task<UsuarioSistemaFinanceiro> ObterUsuarioPorEmail(string emailUsuario)
         {
-            throw new NotImplementedException();
+            using (var banco = new ContextBase(_optionsBuilder))
+            {
+                return await banco.UsuarioSistemaFinanceiro
+                    .AsNoTracking()
+                    .FirstOrDefaultAsync(x => x.EmailUsuario.Equals(emailUsuario));
+            }
         }
 
-        public Task RemoverUsuarioSistemaFinanceiro(List<UsuarioSistemaFinanceiro> usuarios)
+        public async Task RemoverUsuarioSistemaFinanceiro(List<UsuarioSistemaFinanceiro> usuarios)
         {
-            throw new NotImplementedException();
+            using (var banco = new ContextBase(_optionsBuilder))
+            {
+                 banco.UsuarioSistemaFinanceiro.RemoveRange(usuarios);
+                await banco.SaveChangesAsync();
+            }
         }
     }
 }

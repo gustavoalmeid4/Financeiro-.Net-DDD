@@ -1,6 +1,8 @@
 ﻿using Domain.Interfaces.InterfaceServices;
 using Domain.Interfaces.ISistemaFinanceiro;
 using Entities.Entidades;
+using Infra.Configuracao;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,9 +13,22 @@ namespace Infra.Repositorio
 {
     public class RepositorioSistemaFinanceiro : RepositoryGenerics<SistemaFinanceiro>, InterfaceSistemaFinanceiro
     {
-        public Task<IList<SistemaFinanceiro>> ListaSistemaFinanceiro(string emailUsuario)
+        private readonly DbContextOptions<ContextBase> _optionsBuilder;
+
+        public RepositorioSistemaFinanceiro()
         {
-            throw new NotImplementedException();
+               _optionsBuilder = new DbContextOptions<ContextBase>();
+        }
+        public async Task<IList<SistemaFinanceiro>> ListaSistemaFinanceiro(string emailUsuario)
+        {
+            using (var banco = new ContextBase(_optionsBuilder))
+            {
+                return await
+                   (from s in banco.SistemaFinanceiro
+                    join us in banco.UsuarioSistemaFinanceiro on s.Id equals us.IdSistema
+                    where us.EmailUsuario.Equals(emailUsuario)
+                    select s).AsNoTracking().ToListAsync();
+            }
         }
     }
 }
