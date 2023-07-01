@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Domain.Interfaces.InterfaceServices
 {
-    public interface IDespesaService
+    public interface ISistemaFinanceiroService
     {
-        Task AdicionarDespesa(Despesa despesa);
-        Task AtualizarDespesa(Despesa despesa);
+        Task AdicionarSistemaFinanceiro(SistemaFinanceiro sistemaFinanceiro);
+        Task AtualizarSistemaFinanceiro(SistemaFinanceiro sistemaFinanceiro);
     }
 }

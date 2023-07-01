@@ -11,7 +11,7 @@ namespace Entities.Entidades
     public class UsuarioSistemaFinanceiro
     {
         public int Id { get; set; }
-        public string EmailUsuario { get;}
+        public string? EmailUsuario { get;}
         public bool Administrador { get; set; }
         public bool SistemaAtual { get; set; }
 
@@ -19,7 +19,7 @@ namespace Entities.Entidades
         [Column(Order = 1)] 
         public int IdSistema { get; set; }
 
-        public virtual SistemaFinanceiro SistemaFinanceiro { get; set; }
+        public virtual SistemaFinanceiro? SistemaFinanceiro { get; set; }
 
     }
 }
