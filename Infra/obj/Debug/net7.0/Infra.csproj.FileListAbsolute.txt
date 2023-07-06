@@ -15,3 +15,5 @@ D:\Fincanceiro - DDD\Financeiro\Infra\bin\Debug\net7.0\Entities.dll
 D:\Fincanceiro - DDD\Financeiro\Infra\bin\Debug\net7.0\Domain.pdb
 D:\Fincanceiro - DDD\Financeiro\Infra\bin\Debug\net7.0\Entities.pdb
 D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\Infra.csproj.CopyComplete
+D:\Fincanceiro - DDD\Financeiro\Infra\bin\Debug\net7.0\Infra.runtimeconfig.json
+D:\Fincanceiro - DDD\Financeiro\Infra\obj\Debug\net7.0\Infra.genruntimeconfig.cache

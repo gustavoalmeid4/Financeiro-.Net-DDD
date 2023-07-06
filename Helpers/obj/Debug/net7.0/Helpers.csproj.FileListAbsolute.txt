@@ -10,3 +10,5 @@ D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\Helpers.dll
 D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\refint\Helpers.dll
 D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\Helpers.pdb
 D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\ref\Helpers.dll
+D:\Fincanceiro - DDD\Financeiro\Helpers\bin\Debug\net7.0\Helpers.runtimeconfig.json
+D:\Fincanceiro - DDD\Financeiro\Helpers\obj\Debug\net7.0\Helpers.genruntimeconfig.cache

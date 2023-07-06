@@ -84,3 +84,9 @@ D:\Fincanceiro - DDD\Financeiro\WebApi\bin\Debug\net7.0\Infra.dll
 D:\Fincanceiro - DDD\Financeiro\WebApi\bin\Debug\net7.0\Domain.pdb
 D:\Fincanceiro - DDD\Financeiro\WebApi\bin\Debug\net7.0\Infra.pdb
 D:\Fincanceiro - DDD\Financeiro\WebApi\bin\Debug\net7.0\Entities.pdb
+D:\Fincanceiro - DDD\Financeiro\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Fincanceiro - DDD\Financeiro\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\Fincanceiro - DDD\Financeiro\WebApi\bin\Debug\net7.0\Humanizer.dll
+D:\Fincanceiro - DDD\Financeiro\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fincanceiro - DDD\Financeiro\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Fincanceiro - DDD\Financeiro\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll

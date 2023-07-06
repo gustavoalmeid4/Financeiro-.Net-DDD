@@ -10,3 +10,5 @@ D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\Entities.dll
 D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\refint\Entities.dll
 D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\Entities.pdb
 D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\ref\Entities.dll
+D:\Fincanceiro - DDD\Financeiro\Entities\bin\Debug\net7.0\Entities.runtimeconfig.json
+D:\Fincanceiro - DDD\Financeiro\Entities\obj\Debug\net7.0\Entities.genruntimeconfig.cache
