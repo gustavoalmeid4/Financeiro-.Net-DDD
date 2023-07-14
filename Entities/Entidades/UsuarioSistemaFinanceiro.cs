@@ -11,7 +11,7 @@ namespace Entities.Entidades
     public class UsuarioSistemaFinanceiro
     {
         public int Id { get; set; }
-        public string? EmailUsuario { get;}
+        public string? EmailUsuario { get; set; }
         public bool Administrador { get; set; }
         public bool SistemaAtual { get; set; }
 

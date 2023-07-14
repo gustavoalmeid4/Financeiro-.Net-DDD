@@ -21,7 +21,7 @@ namespace Entities.Notificacoes
         public string mensagem { get; set; }
 
         [NotMapped]
-        public List<Notifica> notificacoes { get; set; }
+        public List<Notifica> notificacoes;
 
         public bool ValidarPropriedadeString(string valor, string nomePropriedade)
         {
